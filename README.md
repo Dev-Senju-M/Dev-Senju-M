@@ -56,9 +56,10 @@ Launcher oficial del servidor Vitaris II
 ---
 
 ## 📊 Estadísticas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Senju-M&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Senju-M&theme=tokyonight" />
+  <img height="180em" src="https://readme-stats.clckblog.space/api?username=Dev-Senju-M&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://readme-stats.clckblog.space/api/top-langs/?username=Dev-Senju-M&layout=compact&theme=tokyonight" />
 </p>
 
 ---
