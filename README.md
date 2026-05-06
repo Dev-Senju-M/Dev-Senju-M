@@ -42,6 +42,12 @@ Sistema automatizado con comandos y eventos
 
 ---
 
+### 🔹 vitaris2-launcher
+Launcher oficial del servidor Vitaris II  
+👉 JavaScript | Automatización | Distribución  
+
+---
+
 ### 🔹 Actualmente trabajando en 🚧
 - Sistemas distribuidos más avanzados  
 - Automatización de procesos  
@@ -52,8 +58,9 @@ Sistema automatizado con comandos y eventos
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Senju-M&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Senju-M&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Senju-M&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Dev-Senju-M&theme=tokyonight" />
 </p>
 
 ---
