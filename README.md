@@ -58,8 +58,10 @@ Launcher oficial del servidor Vitaris II
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="180em" src="https://readme-stats.clckblog.space/api?username=Dev-Senju-M&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://readme-stats.clckblog.space/api/top-langs/?username=Dev-Senju-M&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Repos-5-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-3-7F77DD?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lenguaje_Principal-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lenguaje_Principal-Java-red?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
