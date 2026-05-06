@@ -1,5 +1,4 @@
 <h1 align="center">⚡ 𝒮ℰ𝒩𝒥𝒰 ⚡</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Estudiante+de+Ingeniería+en+Sistemas;Backend+Developer;Creador+de+Bots;Siempre+aprendiendo+🚀" />
 </p>
@@ -22,6 +21,9 @@ No me quedo solo en teoría, me gusta crear cosas que realmente funcionen 🔥
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,linux,git,docker" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_AI-70%25-7F77DD?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ---
